@@ -1,0 +1,1 @@
+This repository is a catalogue of my 30 Day Javascript challenge based on the projects from [Javascript30](https://javascript30.com/).
